@@ -1,0 +1,125 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Louis Chabanon",
+		"label": "Étudiant aux Arts et Metiers",
+		"image": "",
+		"email": "louis.chabanon@gmail.com",
+		"phone": "+33 7 68 64 65 81",
+		"url": "https://chabanon.es",
+		"summary": "Étudiant en premiére année aux Arts et Metiers sur le campus de Metz, je suis passionné d'informatique et de nouvelles technologies. Je suis aussi très intéréssé par le secteur de l'énérgie, en particulier renouvelables et nucléaires.",
+		"location": {
+			"address": "12 rue Félix Savart",
+			"postalCode": "57070",
+			"city": "Metz",
+			"countryCode": "FR",
+			"region": "Grand Est"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "louischabanon",
+				"url": "https://linkedin.com/in/louischabanon"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Dubuisson architect",
+			"location": "Paris, France",
+			"description": "Entreprise d'architecture et d'ingénierie du bâtiment",
+			"position": "Stagiaire",
+			"startDate": "2019-06-01",
+			"endDate": "2014-12-14",
+			"summary": "Découverte du monde de l'architecture et de l'ingénierie du bâtiment dans le cas d'une usine de micro conducteurs."
+		},
+		{
+			"name": "Cinémas MK2",
+			"location": "Madrid, Espagne",
+			"description": "Cinémas MK2",
+			"position": "Stagiaire",
+			"startDate": "2019-06-01",
+			"endDate": "2014-12-14",
+			"summary": "Une introduction au Marketing, à la publicité et au Management à l’ère d’internet et des réseaux sociaux."
+		}
+	],
+	"education": [
+		{
+			"institution": "Arts et Métiers",
+			"url": "https://www.arts-et-metiers.com",
+			"area": "École d'Ingénieur généraliste",
+			"studyType": "Programme Grandes Écoles",
+			"startDate": "2023-09-01",
+			"endDate": "2026-07-01",
+			"score": "4.0"
+		},
+		{
+			"institution": "Lycée Chaptal",
+			"area": "Classe préparatoire PTSI/PT*",
+			"startDate": "2021",
+			"endDate": "2023",
+			"score": "4.0"
+		},
+		{
+			"institution": "Lycée Français de Madrid",
+			"url": "https://lfmadrid.net",
+			"area": "Baccalauréat Scientifique",
+			"startDate": "2016",
+			"endDate": "2021",
+			"score": "4.0"
+		}
+	],
+	"volunteer": [{
+		"organization": "Association des Élèves",
+		"position": "Trésorier",
+		"startDate": "2024",
+		"summary": "Trésorier de l'association des élèves de l'école Arts et Métiers de Metz."
+	}],
+	"skills": [
+		{
+			"name": "Programmation",
+			"keywords": ["Python", "Bash"]
+		},
+		{
+			"name": "Video Editing",
+			"keywords": ["Premiere Pro", "Davinci Resolve"]
+		},
+		{
+			"name": "Administration Système",
+			"keywords": ["Linux", "Windows", "MacOS"]
+		}
+	],
+	"languages": [
+		{
+			"language": "Français",
+			"fluency": "langue maternelle"
+		},
+		{
+			"language": "Anglais",
+			"fluency": "B2"
+		},
+		{
+			"language": "Español",
+			"fluency": "B2"
+		}
+	],
+	"projects": [
+		{
+			"name": "Domotique Co2 et température",
+			"description": "Ce projet a commencé comme sujet de Grand Oral dans le cadre de mon cours de sciences de l'ingénieur, mais a été davantage développé pendant mon temps libre. L'objectif de ce projet était de créer une station domotique permettant de surveiller les températures et les niveaux de CO2 à domicile. Ce projet a été inspiré par le besoin de capteurs de qualité de l'air abordable et fiable après la pandémie de Covid-19.",
+			"keywords": ["Domotique", "IOT"],
+			"type": "projet personnel"
+		},
+		{
+			"name": "Administration système",
+			"description": "J’ai pendant plusieurs années aidées en tant qu’administrateur système plusieurs communautés de passionnés autour du jeu vidéo et de l’informatique.",
+			"keywords": ["Sysadmin", "Debian"],
+			"type": "projet personnel"
+		}
+	],
+	"meta": {
+		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+		"version": "v1.0.0",
+		"lastModified": "2017-12-24T15:53:00"
+	}
+}
