@@ -20,6 +20,10 @@
 				"network": "LinkedIn",
 				"username": "louischabanon",
 				"url": "https://linkedin.com/in/louischabanon"
+			},
+			{
+				"network": "website",
+				"url": "https://chabanon.es"
 			}
 		]
 	},
@@ -87,6 +91,10 @@
 		{
 			"name": "Administration Système",
 			"keywords": ["Linux", "Windows", "MacOS"]
+		},
+		{
+			"name": "CAO",
+			"keywords": ["Catia V5", "3D Experience"]
 		}
 	],
 	"languages": [
@@ -99,7 +107,7 @@
 			"fluency": "B2"
 		},
 		{
-			"language": "Español",
+			"language": "Espagnol",
 			"fluency": "B2"
 		}
 	],
